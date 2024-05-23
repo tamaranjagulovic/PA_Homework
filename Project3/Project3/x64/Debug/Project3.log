@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\www\Desktop\New folder\Project3\Project3\Source.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\www\Desktop\New folder\Project3\Project3\Source.cpp(36,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\www\Desktop\New folder\Project3\x64\Debug\Project3.exe
